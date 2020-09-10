@@ -102,5 +102,5 @@
 
 [[redirects]]
   from="/v2/*"
-  to="/v2/:splat.json
+  to="/v2/:splat.json"
   status=200
