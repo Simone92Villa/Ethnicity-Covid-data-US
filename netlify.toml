@@ -99,3 +99,8 @@
   to="/404"
   force=true
   status=404
+
+[[redirects]]
+  from="/v2/*"
+  to="/v2/:splat.json
+  status=200
