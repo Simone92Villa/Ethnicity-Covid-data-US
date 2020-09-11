@@ -1,0 +1,4 @@
+{"links":{"self":"https://api.covidtracking.com/v2/states/ar/2020-00-30"},"meta":{"build_time":"2020-09-11T17:24:55.454Z","license":"CC-BY-4.0","version":"2.0-beta","field_definitions":[]},"data":{"state_code":"AR","date":"2020-03-30T00:00:00.000Z","last_updated_time":null,"cases":{"cumulative":{"value":473,"calculated":{"population_percent":0.02,"increase":47}}},"hospitalization":{"hospitalized":{"currently":{"value":62,"calculated":{"seven_day_average":40.9}},"cumulative":{"value":null}},"in_icu":{"currently":{"value":null,"calculated":{"seven_day_average":null}},"cumulative":{"value":null}},"on_ventilator":{"currently":{"value":21},"cumulative":{"value":null}}},"outcomes":{"recovered":{"value":29},"death":{"cumulative":{"value":7},"confirmed":{"value":null},"probable":{"value":null}}}}}
+}
+}}}
+}}
